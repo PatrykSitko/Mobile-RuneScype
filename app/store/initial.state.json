@@ -1,0 +1,11 @@
+{
+  "state": {
+    "title": "Remote Desktop"
+  },
+  "router": {
+    "pathname": "/",
+    "search": "",
+    "queries": {},
+    "hash": ""
+  }
+}
