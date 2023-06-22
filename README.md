@@ -1,3 +1,3 @@
-﻿# react-native-redux-thunk-with-routing-and-scss-boilerplate by Patryk Sitko
+﻿# Create a stunning native (web) app for Android and IOS!
 
 Node 12.10.0
